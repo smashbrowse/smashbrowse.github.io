@@ -1,2 +1,2 @@
 # smashbrowse.github.io
-web site
+This is our main web site.
